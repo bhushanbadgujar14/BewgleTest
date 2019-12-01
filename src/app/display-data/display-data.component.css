@@ -1,0 +1,78 @@
+mat-form-field {
+  margin-left: 13vw;
+}
+
+.jumbotron {
+  background-color: rgb(31, 195, 224);
+}
+
+.example-card {
+  max-width: 400px;
+  float: right;
+  margin-top: -18vh;
+  margin-right: 10vw;
+}
+
+.example-header-image {
+  background-image: url('https://m.media-amazon.com/images/I/61tGayYkbaL._AC_US60_SCLZZZZZZZ__.jpg');
+  background-size: cover;
+}
+
+#btnRev {
+  margin-left: 40px;
+  margin-bottom: 5px;
+  background-color: rgb(144, 248, 8);
+  border-radius: 5px;
+  height: 40px;
+  width: 300px;
+}
+
+#btnRevHide {
+  margin-left: 40px;
+  margin-bottom: 5px;
+  background-color: rgb(144, 248, 8);
+  border-radius: 5px;
+  height: 40px;
+  width: 300px;
+}
+
+.example-h2 {
+  margin: 10px;
+}
+
+.example-section {
+  display: flex;
+  align-content: center;
+  align-items: center;
+  height: 60px;
+}
+
+.example-margin {
+  margin: 0 10px;
+}
+
+.review {
+  width: 300px;
+  margin-left: 10vw;
+  color: powderblue;
+}
+
+.productData {
+    margin-top: 10px;
+  margin-left: 10vw;
+  color: powderblue;
+}
+
+#l1 {
+  margin-left: 100px;
+}
+
+#l2 {
+    margin-left: 120px;
+  }
+
+mat-progress-bar{
+    height: 10px;
+    width: 500px;
+    border-radius: 10px;
+}
